@@ -9,3 +9,4 @@ Op het moment dat er 2 fingers worden getelt wordt het scissors.
 bij 0 wordt het rock, en bij 5 fingers papier.
 Van kaggle.com haal ik mijn dataset(https://www.kaggle.com/c/rock-paper-scissors/datasets)
 Ik ben er nog niet uit met welke methode ik dit moet gaan aanpakken.
+De paper die ik wil gaan gebruiken is: https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16386
