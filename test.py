@@ -9,14 +9,13 @@ import matplotlib.image as mpimg
 import numpy as np
 import pandas as pd 
 
-import cv2
 from keras.preprocessing import image
 
 model = keras.models.load_model('./trained_model')
 
-path = "./testimg/rock/00nKV8oHuTGi20gq.png"
-cv_img = cv2.imread(path)
+path = "./Rock-Paper-Scissors/Rock-Paper-Scissors/test/paper/testpaper04-28.png"
 
+img_show = mpimg.imread(path)
 img = image.load_img(path, target_size=(150, 150))
 x = image.img_to_array(img)
 x = np.expand_dims(x, axis=0)
@@ -32,4 +31,5 @@ for i in classes:
     else:
         print("Scissor")
         
-plt.imshow(cv_img)
+plt.imshow(img_show)
+plt.show()
