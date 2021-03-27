@@ -1,0 +1,36 @@
+Must have:
+- Welk gebaar er word uitgebeeld.
+- Alles documenteren.
+
+Should have:
+- uit meerdere handen de juiste hand kiezen
+
+
+============== Planning ==============
+
+Week 1:
+- Welke onderzoeks paper ik ga gebruiken
+- github page maken.
+
+Week 2:
+- Uitgekozen paper helemaal doorlezne
+- Data uitzoeken die de juiste data heeft(handen die steen, papier of schaar zijn)
+
+Week 3:
+- workspace helemaal klaar maken
+- Juiste filters zoeken
+
+Week 4:
+- AI trainen met verschilde filters
+- Documenteren van mijn bevindeningen
+- Kijken of de planning nog klopt
+
+Week 5:
+- filters tegen elkaar vergelijken
+- Documenteren van mijn bevindeningen
+
+Week 6:
+- Kijken of ik filters kan verbeteren door te kijken naar de resultaten
+
+Week 7:
+- grafieken maken
